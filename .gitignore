@@ -1,0 +1,7 @@
+build
+*.elf
+*.dldi
+*.nds
+*.dat
+*.py
+*.sh
